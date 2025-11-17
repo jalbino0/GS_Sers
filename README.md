@@ -79,7 +79,7 @@ Parâmetros ajustáveis:
 
 ## ● Como Executar o Notebook Via Google Colab (recomendado)
 
-1. Faça upload do notebook `analise_consumo_2020_2024.ipynb`.  
+1. Faça upload do notebook `GS_SERS.ipynb`.  
 2. Faça upload da pasta `dados/` com todos os CSVs.  
 3. Execute as células sequencialmente.
 
