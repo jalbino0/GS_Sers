@@ -6,7 +6,7 @@ Este repositório contém um **Jupyter Notebook** que analisa dados reais de dem
 
 
 - **dados/**: contém todos os arquivos CSV utilizados na análise.  
-- **analise_consumo_2020_2024.ipynb**: notebook completo com a análise, gráficos e simulação de economia energética.
+- **GS_SERS.ipynb**: notebook completo com a análise, gráficos e simulação de economia energética.
 
 ---
 
@@ -80,8 +80,8 @@ Parâmetros ajustáveis:
 ## ● Como Executar o Notebook Via Google Colab (recomendado)
 
 1. Faça upload do notebook `GS_SERS.ipynb`.  
-2. Faça upload da pasta `dados/` com todos os CSVs.  
-3. Execute as células sequencialmente.
+2. Faça upload dos arquivos `.CSV` da pasta `dados/`.  
+3. Execute a célula.
 
 ## ● Conexão com Sustentabilidade e Futuro do Trabalho
 
